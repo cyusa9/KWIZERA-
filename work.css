@@ -1,0 +1,45 @@
+body{
+	background-color: rgba(0, 0, 0, 5.5);
+}
+
+.hod{
+	margin-left: 900px;
+	margin-top: -30px;
+}
+.hod ul  {
+	display: flex;
+	list-style: none;
+	text-decoration: none;
+}
+.hod ul li{
+	padding: 0px 15px 0px 0px;
+}
+.hod ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+.hedd{
+	background-color: rgba(17, 10, 5, 5.0);
+	width: 1500px;
+	height: 40px;
+}
+h6{
+	color: #fff;
+	margin-top: 10px;
+}
+.pari{
+	color: #fff;
+	margin-top: 150px;
+}
+img{
+	margin-left: 800px;
+	border-radius: 25px;
+	margin-top: -200px;
+}
+.submit{
+	margin-left: 200px;
+	background-color: orange;
+	width: 150px;
+	height: 60px;
+	border-radius: 20px;
+}
